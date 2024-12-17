@@ -28,7 +28,7 @@ The repository evolution followed two main development branches that ultimately 
 1. `dataset_creation.ipynb` - Initial dataset preparation
 2. `llama_with_tokenization_pipeline_and_custom_datasets.ipynb` - Custom tokenization implementation
 3. `initial_llama_pipeline_with_evaluation.ipynb` - Complete evaluation pipeline
-4. `music_finetuned_model.ipynb` - Additional finetuned model directly on MusicXML
+4. `music_finetuned_model.ipynb` and `ascii_finetuned_model.ipynb` - Additional finetuned models directly on MusicXML and our ASCII dataset, respectively
 
 ### Final Implementation Files
 - `finetuned_entropix_model_in_full_pipeline_ASCII.ipynb` - ASCII art processing pipeline
